@@ -2,7 +2,7 @@
 
 ## Stack
 - **PHP** 8.2 / **Laravel** 11
-- - **Node** v22.12.0 / **React** 18 + Vite
+- **Node** v22.12.0 / **React** 18 + Vite
 - **MySQL** 8
 
 ## Setup
